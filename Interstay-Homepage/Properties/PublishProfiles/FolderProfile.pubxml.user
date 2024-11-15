@@ -1,0 +1,218 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--
+https://go.microsoft.com/fwlink/?LinkID=208121. 
+-->
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <_PublishTargetUrl>C:\publish\interstay</_PublishTargetUrl>
+  </PropertyGroup>
+  <ItemGroup>
+    <File Include="App_Code/Tools.cs">
+      <publishTime>01/22/2021 21:10:00</publishTime>
+    </File>
+    <File Include="assets/img/adress.png">
+      <publishTime>12/29/2020 17:27:15</publishTime>
+    </File>
+    <File Include="assets/img/call.png">
+      <publishTime>12/29/2020 17:27:15</publishTime>
+    </File>
+    <File Include="assets/img/event.jpg">
+      <publishTime>12/29/2020 17:27:15</publishTime>
+    </File>
+    <File Include="assets/img/event_en.jpg">
+      <publishTime>12/29/2020 20:42:39</publishTime>
+    </File>
+    <File Include="assets/img/event_KR.jpg">
+      <publishTime>12/29/2020 17:27:15</publishTime>
+    </File>
+    <File Include="assets/img/favicon.ico">
+      <publishTime>12/29/2020 17:39:04</publishTime>
+    </File>
+    <File Include="assets/img/features_1.jpg">
+      <publishTime>12/29/2020 17:27:15</publishTime>
+    </File>
+    <File Include="assets/img/features_2.jpg">
+      <publishTime>12/29/2020 17:27:15</publishTime>
+    </File>
+    <File Include="assets/img/features_3.jpg">
+      <publishTime>12/29/2020 17:27:15</publishTime>
+    </File>
+    <File Include="assets/img/features_4.jpg">
+      <publishTime>12/29/2020 17:27:15</publishTime>
+    </File>
+    <File Include="assets/img/features_5.jpg">
+      <publishTime>12/29/2020 17:27:15</publishTime>
+    </File>
+    <File Include="assets/img/features_6.jpg">
+      <publishTime>12/29/2020 17:27:15</publishTime>
+    </File>
+    <File Include="assets/img/features_7.jpg">
+      <publishTime>12/29/2020 17:27:15</publishTime>
+    </File>
+    <File Include="assets/img/features_8.jpg">
+      <publishTime>12/29/2020 17:27:15</publishTime>
+    </File>
+    <File Include="assets/img/features_9.jpg">
+      <publishTime>12/29/2020 17:27:15</publishTime>
+    </File>
+    <File Include="assets/img/features_main.png">
+      <publishTime>12/29/2020 17:27:15</publishTime>
+    </File>
+    <File Include="assets/img/free_main.png">
+      <publishTime>12/29/2020 17:27:15</publishTime>
+    </File>
+    <File Include="assets/img/IS_LOGO.png">
+      <publishTime>12/29/2020 17:27:15</publishTime>
+    </File>
+    <File Include="assets/img/IS_LOGO_black.png">
+      <publishTime>12/29/2020 17:27:15</publishTime>
+    </File>
+    <File Include="assets/img/mail.png">
+      <publishTime>12/29/2020 17:27:15</publishTime>
+    </File>
+    <File Include="assets/img/main_1.jpg">
+      <publishTime>12/29/2020 17:27:15</publishTime>
+    </File>
+    <File Include="assets/img/main_2.jpg">
+      <publishTime>12/29/2020 17:27:15</publishTime>
+    </File>
+    <File Include="assets/img/main_3.jpg">
+      <publishTime>12/29/2020 17:27:15</publishTime>
+    </File>
+    <File Include="assets/img/main_4.jpg">
+      <publishTime>12/29/2020 17:27:15</publishTime>
+    </File>
+    <File Include="assets/img/main_top2.jpg">
+      <publishTime>12/29/2020 17:27:15</publishTime>
+    </File>
+    <File Include="assets/img/pricing_main.png">
+      <publishTime>12/29/2020 17:27:15</publishTime>
+    </File>
+    <File Include="assets/img/QR-Template1.png">
+      <publishTime>01/06/2021 13:58:33</publishTime>
+    </File>
+    <File Include="assets/img/QR-Template1_KR.jpg">
+      <publishTime>01/06/2021 13:59:50</publishTime>
+    </File>
+    <File Include="assets/img/Seoul - 21118.mp4">
+      <publishTime>12/29/2020 17:27:15</publishTime>
+    </File>
+    <File Include="assets/img/services_1.png">
+      <publishTime>12/29/2020 17:27:15</publishTime>
+    </File>
+    <File Include="assets/img/services_2.png">
+      <publishTime>12/29/2020 17:27:15</publishTime>
+    </File>
+    <File Include="assets/img/services_3.png">
+      <publishTime>12/29/2020 17:27:15</publishTime>
+    </File>
+    <File Include="assets/img/services_4.jpg">
+      <publishTime>12/29/2020 17:27:15</publishTime>
+    </File>
+    <File Include="assets/img/services_5.jpg">
+      <publishTime>12/29/2020 17:27:15</publishTime>
+    </File>
+    <File Include="assets/img/services_6.jpg">
+      <publishTime>12/29/2020 17:27:15</publishTime>
+    </File>
+    <File Include="assets/img/services_7.jpg">
+      <publishTime>12/29/2020 17:27:15</publishTime>
+    </File>
+    <File Include="assets/img/ta.png">
+      <publishTime>12/29/2020 17:27:15</publishTime>
+    </File>
+    <File Include="assets/img/tag.png">
+      <publishTime>12/29/2020 17:27:15</publishTime>
+    </File>
+    <File Include="assets/img/zac-ong-JHN1-mpgXjo-unsplash.jpg">
+      <publishTime>12/29/2020 17:27:15</publishTime>
+    </File>
+    <File Include="assets/mail/contact_me.js">
+      <publishTime>12/29/2020 17:27:32</publishTime>
+    </File>
+    <File Include="assets/mail/jqBootstrapValidation.js">
+      <publishTime>12/29/2020 17:27:32</publishTime>
+    </File>
+    <File Include="bin/Interstay-Homepage.dll">
+      <publishTime>02/10/2021 16:06:19</publishTime>
+    </File>
+    <File Include="bin/Interstay-Homepage.pdb">
+      <publishTime>02/10/2021 16:06:19</publishTime>
+    </File>
+    <File Include="bin/Microsoft.AspNet.FriendlyUrls.dll">
+      <publishTime>07/30/2013 16:57:30</publishTime>
+    </File>
+    <File Include="bin/Microsoft.Web.Infrastructure.dll">
+      <publishTime>07/25/2012 11:48:56</publishTime>
+    </File>
+    <File Include="css/site.css">
+      <publishTime>01/06/2021 14:38:29</publishTime>
+    </File>
+    <File Include="Default.aspx">
+      <publishTime>01/11/2021 15:45:05</publishTime>
+    </File>
+    <File Include="Features.aspx">
+      <publishTime>01/06/2021 18:36:01</publishTime>
+    </File>
+    <File Include="Free-Trial.aspx">
+      <publishTime>01/11/2021 15:14:09</publishTime>
+    </File>
+    <File Include="Global.asax">
+      <publishTime>12/29/2020 17:55:40</publishTime>
+    </File>
+    <File Include="js/fullpage.min.js">
+      <publishTime>12/29/2020 17:28:17</publishTime>
+    </File>
+    <File Include="js/jquery.vide.min.js">
+      <publishTime>12/29/2020 17:28:17</publishTime>
+    </File>
+    <File Include="js/scripts.js">
+      <publishTime>12/29/2020 17:28:17</publishTime>
+    </File>
+    <File Include="ko-KR/Default.aspx">
+      <publishTime>01/06/2021 18:35:59</publishTime>
+    </File>
+    <File Include="ko-KR/Features.aspx">
+      <publishTime>01/06/2021 18:35:58</publishTime>
+    </File>
+    <File Include="ko-KR/Free-Trial.aspx">
+      <publishTime>01/06/2021 18:35:58</publishTime>
+    </File>
+    <File Include="ko-KR/Pricing.aspx">
+      <publishTime>01/06/2021 18:35:57</publishTime>
+    </File>
+    <File Include="Master_EN.Master">
+      <publishTime>01/22/2021 13:41:44</publishTime>
+    </File>
+    <File Include="Master_KR.Master">
+      <publishTime>01/22/2021 13:39:37</publishTime>
+    </File>
+    <File Include="Master_TW.Master">
+      <publishTime>02/05/2021 15:16:46</publishTime>
+    </File>
+    <File Include="Pricing.aspx">
+      <publishTime>01/06/2021 18:35:59</publishTime>
+    </File>
+    <File Include="Site.Mobile.Master">
+      <publishTime>12/29/2020 17:50:22</publishTime>
+    </File>
+    <File Include="ViewSwitcher.ascx">
+      <publishTime>12/29/2020 17:50:22</publishTime>
+    </File>
+    <File Include="Web.config">
+      <publishTime>02/10/2021 16:06:19</publishTime>
+    </File>
+    <File Include="zh-TW/Default.aspx">
+      <publishTime>02/05/2021 15:19:46</publishTime>
+    </File>
+    <File Include="zh-TW/Features.aspx">
+      <publishTime>01/11/2021 16:25:25</publishTime>
+    </File>
+    <File Include="zh-TW/Free-Trial.aspx">
+      <publishTime>02/05/2021 15:33:29</publishTime>
+    </File>
+    <File Include="zh-TW/Pricing.aspx">
+      <publishTime>01/11/2021 16:28:37</publishTime>
+    </File>
+  </ItemGroup>
+</Project>
